@@ -1,0 +1,3 @@
+rootProject.name = 'TapProject'
+
+include ':app'
