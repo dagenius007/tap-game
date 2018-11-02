@@ -1,4 +1,4 @@
-# tap-game
-A simple tap game using react native.
+# Tap Game
+A simple tap game built using react native.
 
 Still in progress.
